@@ -52,7 +52,7 @@ python3 -u TrainPPPML.py \
   --num_global_iters 30 \
   --gpu 0 \
   --times 1 \
-  --exp c3_split1
+  --exp c3_split1 \
   --HE 1
 
 ## Key Insights
