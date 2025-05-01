@@ -57,6 +57,8 @@ python3 -u TrainPPPML.py \
   --exp c3_split1 \
   --HE 1
 ```
+Change --algorithm to FedAvg, FedProx, FedOpt, or CSAPerAvg as needed.
+Default: Homomorphic encryption (HE) is enabled (--HE 1).
 
 ## Key Insights
 
