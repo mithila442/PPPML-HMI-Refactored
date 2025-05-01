@@ -2,6 +2,8 @@
 
 This repository implements privacy-preserving federated learning (FL) algorithms using the **PPPML-HMI** framework on the **RADChestCT** dataset. The core method explored is **CSAPerAvg**, which combines personalized updates and secure aggregation via homomorphic encryption (HE) for decentralized medical AI training.
 
+🔗 ** Official GitHub Repository of the actual implementation:** [JoshuaChou2018/PPPML-HMI](https://github.com/JoshuaChou2018/PPPML-HMI/)
+
 ---
 
 ## Overview
